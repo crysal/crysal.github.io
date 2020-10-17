@@ -6,9 +6,7 @@ no aliens here,
 no need to check out if i bleed,
 I am 100% human just like you,
 both human you and me.
-<h1>  Bastion Writeup from HackTheBox</h1>
-<embed src="HTB_Bastion_unlocked.pdf#toolbar=0&navpanes=0&scrollbar=1" type="application/pdf" width="100%" height="600px" />
-<h1> SwagShop Writeup from HackTheBox</h1>
-<embed src="HTB_SwagShop_unlocked.pdf#toolbar=0&navpanes=0&scrollbar=1" type="application/pdf" width="100%" height="600px" />
-<h1> Writeup Writeup from HackTheBox</h1>
-<embed src="HTB_Writeup_unlocked.pdf#toolbar=0&navpanes=0&scrollbar=1" type="application/pdf"  width="100%" height="600px" />
+<p><h1>Links to stuff</h1></p>
+<a href="/opsec/index.html">OPSEC</a>
+<a href="/photos/index.html">PHOTOS</a>
+<a href="/resume/index.html">RESUME</a>
